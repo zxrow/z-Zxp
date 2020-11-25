@@ -6,6 +6,17 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
+### About Me ⚠️
+___
+
+![XP-TN github stats](https://github-readme-stats.vercel.app/api?username=XP-TN&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XP-TN&hide=css,html&theme=tokyonight)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XP-TN&repo=XP-TNBOT)](https://github.com/XP-TN/XP-TNBOT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XP-TN&repo=XP-TNBOT)](https://github.com/XP-TN/XP-TNBOT)
+<!--
+**XP-TN/XP-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 **Personal Stuffs:**
 - 🔭 I’m currently working on my campus project
