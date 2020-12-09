@@ -5,7 +5,7 @@
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
-<a href="https://https://github.com/Caliph71"><img height="30" src="https://github.com/XP-TN/XP-TN/blob/main/image/image.jpg</a>
+
 
 ### About Me ⚠️
 ___
@@ -17,13 +17,8 @@ ___
 <!--
 **XP-TN/XP-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Follow Github Teman Saya & Dan terimakasih udah
-<p align='center'>I'm XPTN</p>
-<p align='center'>
-<a href="https://github.com/Caliph71"><img height="30" src="https://github.com/XP-TN/XP-TN/blob/main/images/image.jpg?raw=true"></a>
-</p><br/>
-Meng follow github teman saya
-'''
+## Thanks to
+- [chilph71](https://github.com/Caliph71)
 
 
 
