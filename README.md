@@ -5,7 +5,7 @@
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
-<a href="https://https://github.com/Caliph71"><img height="30" src="https://github.com/XP-TN/XP-TN/blob/main/image/image.jpg?raw=true"></a>
+<a href="https://https://github.com/Caliph71"><img height="30" src="https://github.com/XP-TN/XP-TN/blob/main/image/image.jpg</a>
 
 ### About Me ⚠️
 ___
