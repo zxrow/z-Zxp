@@ -1,5 +1,7 @@
 ## Hi there, I'm XP-TN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ![](https://visitor-badge.glitch.me/badge?page_id=XP-TN)
+![XP-TN](https://komarev.com/ghpvc/?username=XP-TN&label=Views&color=blue&style=plastic)
+[![GitHub XP-TN](https://img.shields.io/github/followers/XP-TN?label=follow&style=social)](https://github.com/XP-TN)
 
 <img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
