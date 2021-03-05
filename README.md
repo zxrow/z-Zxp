@@ -3,6 +3,13 @@
 ![XP-TN](https://komarev.com/ghpvc/?username=XP-TN&label=Views&color=blue&style=plastic)
 [![GitHub XP-TN](https://img.shields.io/github/followers/XP-TN?label=follow&style=social)](https://github.com/XP-TN)
 
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+### 📫 Follow Me On
+<a href="https://www.instagram.com/_xptn" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://youtube.com/channel/UCMiQsqzWvj-zKxNlFlG_Wiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/6289655478810" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+
 <img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
@@ -19,9 +26,6 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XP-TN&repo=XP-TNBOT)](https://github.com/XP-TN/XP-TNBOT)
 <!--
 **XP-TN/XP-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Thanks to
-- [chilph71](https://github.com/Caliph71)
 
 
 
