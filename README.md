@@ -1,7 +1,7 @@
-## Hi there, I'm XP-TN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-![](https://visitor-badge.glitch.me/badge?page_id=XP-TN)
-![XP-TN](https://komarev.com/ghpvc/?username=XP-TN&label=Views&color=blue&style=plastic)
-[![GitHub XP-TN](https://img.shields.io/github/followers/XP-TN?label=follow&style=social)](https://github.com/XP-TN)
+## Hi there, I'm z-Zxp <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+![](https://visitor-badge.glitch.me/badge?page_id=z-Zxp)
+![z-Zxp](https://komarev.com/ghpvc/?username=XP-TN&label=Views&color=blue&style=plastic)
+[![GitHub z-Zxp](https://img.shields.io/github/followers/XP-TN?label=follow&style=social)](https://github.com/z-Zxp)
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
@@ -20,10 +20,10 @@
 ### About Me ⚠️
 ___
 
-![XP-TN github stats](https://github-readme-stats.vercel.app/api?username=XP-TN&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XP-TN&hide=css,html&theme=tokyonight)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XP-TN&repo=XP-TNBOT)](https://github.com/XP-TN/XP-TNBOT)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XP-TN&repo=XP-TNBOT)](https://github.com/XP-TN/XP-TNBOT)
+![XP-TN github stats](https://github-readme-stats.vercel.app/api?username=z-Zxp&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-Zxp&hide=css,html&theme=tokyonight)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=z-Zxp&repo=z-Zxp)](https://github.com/XP-TN/XP-TNNBOT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=z-Zxp&repo=z-Zxp)](https://github.com/XP-TN/XP-TNNBOT)
 <!--
 **XP-TN/XP-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,6 +37,6 @@ ___
 - 📫 Reach me via [whatsapp](https://wa.me/6289655478810) or [facebook](https://www.facebook.com/adm.tidakperlutenar.5/)
 
 
-[![🦉 XP-TN github stats](https://github-readme-stats.vercel.app/api?username=XP-TN&show_icons=true&hide_border=true&hide=issues)](https://github.com/XP-TN)
+[![🦉 z-Zxp github stats](https://github-readme-stats.vercel.app/api?username=z-Zxp&show_icons=true&hide_border=true&hide=issues)](https://github.com/z-Zxp)
 
 
