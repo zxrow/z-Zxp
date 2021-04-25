@@ -1,7 +1,7 @@
 ## Hi there, I'm z-Zxp <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ![](https://visitor-badge.glitch.me/badge?page_id=z-Zxp)
-![z-Zxp](https://komarev.com/ghpvc/?username=XP-TN&label=Views&color=blue&style=plastic)
-[![GitHub z-Zxp](https://img.shields.io/github/followers/XP-TN?label=follow&style=social)](https://github.com/z-Zxp)
+![z-Zxp](https://komarev.com/ghpvc/?username=z-Zxp&label=Views&color=blue&style=plastic)
+[![GitHub z-Zxp](https://img.shields.io/github/followers/z-Zxp?label=follow&style=social)](https://github.com/z-Zxp)
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
