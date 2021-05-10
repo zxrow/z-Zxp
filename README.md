@@ -33,8 +33,8 @@ ___
 - 🔭 I’m currently working on my campus project
 - 🌱 I’m currently learning typescript
 - ✨ Interested in backend-ish things 
-- 🤔 Looking for help with my [Github](https://github.com/XP-TN)
-- 📫 Reach me via [whatsapp](https://wa.me/6289655478810) or [facebook](https://www.facebook.com/adm.tidakperlutenar.5/)
+- 🤔 Looking for help with my [Github](https://github.com/Z-zxp)
+- 📫 Reach me via [whatsapp](https://wa.me/11111111111) or [facebook](https://www.facebook.com/adm.tidakperlutenar.6/)
 
 
 [![🦉 z-Zxp github stats](https://github-readme-stats.vercel.app/api?username=z-Zxp&show_icons=true&hide_border=true&hide=issues)](https://github.com/z-Zxp)
