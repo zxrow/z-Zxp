@@ -1,6 +1,6 @@
 ## Hi there, I'm z-Zxp <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@fdciabdul?theme=gelbooru-h"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@_Z-zxp?theme=gelbooru-h"></a>
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=z-Zxp)
