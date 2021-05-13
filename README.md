@@ -1,4 +1,8 @@
 ## Hi there, I'm z-Zxp <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@fdciabdul?theme=gelbooru-h"></a>
+</p>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=z-Zxp)
 ![z-Zxp](https://komarev.com/ghpvc/?username=z-Zxp&label=Views&color=blue&style=plastic)
 [![GitHub z-Zxp](https://img.shields.io/github/followers/z-Zxp?label=follow&style=social)](https://github.com/z-Zxp)
