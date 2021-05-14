@@ -3,6 +3,15 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Agungx?theme=gelbooru-h"></a>
 </p>
 
+<p>♦️ʙᴀᴄᴀ ʜᴇɴᴛ**♦️
+http://zxywebsite.6te.net/
+↓
+🛡️ʟɪɴᴋ ᴀᴘᴋ ꜱᴛʀᴇᴀᴍɪɴɢ ᴀɴɪᴍᴇ , ɴᴏɴᴛᴏɴ ꜰɪʟᴍ , ʙᴀᴄᴀ ᴍᴀɴɢᴀ , 18+ ʀᴇᴀʟ , ᴅʟʟ² ꜰᴜʟʟ ᴡᴇʙꜱɪᴛᴇ 🛡️
+https://www.apkfiles.com/apk-608728/aplication-by-agungx
+↓
+👾ꜰᴏʟʟᴏᴡ ɢɪᴛʜᴜʙ👾
+https://github.com/z-Zxp
+</p>
 ![](https://visitor-badge.glitch.me/badge?page_id=z-Zxp)
 ![z-Zxp](https://komarev.com/ghpvc/?username=z-Zxp&label=Views&color=blue&style=plastic)
 [![GitHub z-Zxp](https://img.shields.io/github/followers/z-Zxp?label=follow&style=social)](https://github.com/z-Zxp)
