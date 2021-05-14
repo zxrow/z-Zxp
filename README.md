@@ -2,14 +2,9 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Agungx?theme=gelbooru-h"></a>
 </p>
-<p>♦️ʙᴀᴄᴀ ʜᴇɴᴛ**♦️
+<p>
+♦️ʙᴀᴄᴀ ʜᴇɴᴛ**♦️
 <a href="http://zxywebsite.6te.net/" target="_blank"><img src=">https://img.shields.io/badge/Link%20Here-Enjoy-lightgrey</a>
-</p>
-<p>🛡️ʟɪɴᴋ ᴀᴘᴋ ꜱᴛʀᴇᴀᴍɪɴɢ ᴀɴɪᴍᴇ , ɴᴏɴᴛᴏɴ ꜰɪʟᴍ , ʙᴀᴄᴀ ᴍᴀɴɢᴀ , 18+ ʀᴇᴀʟ , ᴅʟʟ² ꜰᴜʟʟ ᴡᴇʙꜱɪᴛᴇ 🛡️
-<a href="https://www.apkfiles.com/apk-608728/aplication-by-agungx" target="_blank"><img src=">https://img.shields.io/badge/Link%20Here-Enjoy-lightgrey</a>
-</p>
-<p>👾ꜰᴏʟʟᴏᴡ ɢɪᴛʜᴜʙ👾
-<a href="ttps://github.com/z-Zxp" target="_blank"><img src=">https://img.shields.io/badge/Link%20Here-Enjoy-lightgrey</a>
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=z-Zxp)
