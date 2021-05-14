@@ -2,7 +2,8 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Agungx?theme=gelbooru-h"></a>
 </p>
-[![♦ʙᴀᴄᴀ ʜᴇɴᴛ**♦](https://img.shields.io/badge/Link%20Here-Enjoy-lightgrey)](https://zxywebsite.6te.net)
+
+[![Baca Hentai](https://img.shields.io/badge/Link%20Here-Enjoy-lightgrey)](https://zxywebsite.6te.net)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=z-Zxp)
 ![z-Zxp](https://komarev.com/ghpvc/?username=z-Zxp&label=Views&color=blue&style=plastic)
