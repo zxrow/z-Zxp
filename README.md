@@ -2,13 +2,10 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@Agungx?theme=gelbooru-h"></a>
 </p>
-
 <p>♦️ʙᴀᴄᴀ ʜᴇɴᴛ**♦️</p>
 <a href="http://zxywebsite.6te.net/"></a>
-↓
 <p>🛡️ʟɪɴᴋ ᴀᴘᴋ ꜱᴛʀᴇᴀᴍɪɴɢ ᴀɴɪᴍᴇ , ɴᴏɴᴛᴏɴ ꜰɪʟᴍ , ʙᴀᴄᴀ ᴍᴀɴɢᴀ , 18+ ʀᴇᴀʟ , ᴅʟʟ² ꜰᴜʟʟ ᴡᴇʙꜱɪᴛᴇ 🛡️</p>
 <a href="https://www.apkfiles.com/apk-608728/aplication-by-agungx"></a>
-↓
 <p>👾ꜰᴏʟʟᴏᴡ ɢɪᴛʜᴜʙ👾</p>
 <a href="ttps://github.com/z-Zxp"></a>
 
