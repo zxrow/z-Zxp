@@ -6,8 +6,8 @@
 [![Baca Hentai](https://img.shields.io/badge/Link%20Here-Enjoy-lightgrey)](http://zxywebsite.6te.net)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=z-ZxQ)
-![z-Zxp](https://komarev.com/ghpvc/?username=z-Zxp&label=Views&color=blue&style=plastic)
-[![GitHub z-Zxp](https://img.shields.io/github/followers/z-Zxp?label=follow&style=social)](https://github.com/z-ZxQ)
+![z-Zxp](https://komarev.com/ghpvc/?username=z-ZxQ&label=Views&color=blue&style=plastic)
+[![GitHub z-Zxp](https://img.shields.io/github/followers/z-ZxQ?label=follow&style=social)](https://github.com/z-ZxQ)
 
 <img align="center" fit="fill" alt="GIF" src="https://media3.giphy.com/media/FB5EOw0CaaQM0/giphy.webp?cid=6c09b9521731b6d114b798f6af4a48558d5cd95ed60dc7b5&rid=giphy.webp&ct=g" />
 
@@ -42,7 +42,7 @@ ___
 - 🌱 I’m currently learning typescript
 - ✨ Interested in backend-ish things 
 - 🤔 Looking for help with my [Github](https://github.com/Z-zxQ)
-- 📫 Reach me via [whatsapp](https://wa.me/11111111111) or [facebook](https://www.facebook.com/adm.tidakperlutenar.6/)
+- 📫 Reach me via [whatsapp](https://wa.me/11111111111) or [INSTAGRAM](https://www.instagram.com/_zxagung)
 
 
 [![🦉 z-ZxQ github stats](https://github-readme-stats.vercel.app/api?username=z-ZxQ&show_icons=true&hide_border=true&hide=issues)](https://github.com/z-ZxQ)
